@@ -2,6 +2,8 @@
 
 A modern, minimal React frontend for managing trustless recurring payments on Web3.
 
+**DEMO:** https://youtu.be/qLX9U08LpX0?si=dJzHV_hNQW5MHy3b
+
 ## Features
 
 - **Landing Page**: Hero section with clear CTAs and wallet connection
